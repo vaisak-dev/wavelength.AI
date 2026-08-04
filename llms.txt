@@ -1,0 +1,27 @@
+# Wavelength
+
+> Wavelength is an AI marketing agency delivering SEO, answer-engine optimization (AEO/GEO), paid media, AI content systems, marketing automation, and analytics for growth-stage and enterprise brands.
+
+Wavelength combines technical SEO discipline with optimization for generative answer engines (ChatGPT, Perplexity, AI Overviews), so client brands are visible in both traditional search results and AI-generated answers.
+
+## Services
+- [SEO & Technical Optimization](https://www.wavelength.ai/services.html#seo): Technical audits, content architecture, and on-page optimization.
+- [AEO & Generative Engine Optimization](https://www.wavelength.ai/services.html#geo): Structuring content and data so AI answer engines can find, trust, and cite a brand.
+- [Paid Media & Performance Marketing](https://www.wavelength.ai/services.html#paid): Search, social, and programmatic campaigns tied to pipeline value.
+- [AI Content Systems](https://www.wavelength.ai/services.html#content): AI-assisted, human-edited content production at scale.
+- [Marketing Automation & CRM](https://www.wavelength.ai/services.html#automation): Lifecycle email, lead scoring, and CRM operations.
+- [Analytics & Attribution](https://www.wavelength.ai/services.html#analytics): Unified reporting including AI-referral traffic.
+
+## Industries
+- [SaaS & Technology](https://www.wavelength.ai/industries.html#saas)
+- [Healthcare & Life Sciences](https://www.wavelength.ai/industries.html#healthcare)
+- [Financial Services](https://www.wavelength.ai/industries.html#finance)
+- [Retail & E-commerce](https://www.wavelength.ai/industries.html#retail)
+- [Manufacturing & Industrial](https://www.wavelength.ai/industries.html#manufacturing)
+- [Professional Services](https://www.wavelength.ai/industries.html#professional)
+
+## Company
+- [About Wavelength](https://www.wavelength.ai/about.html): Founded 2021, team of 34, serving 12 industries.
+- [Case Studies](https://www.wavelength.ai/case-studies.html): Documented pipeline and revenue outcomes by industry.
+- [Blog](https://www.wavelength.ai/blog.html): Articles on SEO, AEO, paid media, and AI content strategy.
+- [Contact](https://www.wavelength.ai/contact.html): hello@wavelength.ai / +1 (800) 555-0142
